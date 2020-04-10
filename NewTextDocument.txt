@@ -1,5 +1,0 @@
-http://13.82.235.159:89/communication.asmx
-862061043561017
-SkyMobile
-roni
-roni2020
