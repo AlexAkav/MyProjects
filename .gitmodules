@@ -1,3 +1,6 @@
 [submodule "MyProjects-MSP430Projects"]
 	path = MyProjects-MSP430Projects
 	url = https://github.com/AlexAkav/MyProjects-MSP430Projects
+[submodule "MyProjects-c_sharpProjects"]
+	path = MyProjects-c_sharpProjects
+	url = https://github.com/AlexAkav/MyProjects-c_sharpProjects.git
